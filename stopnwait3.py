@@ -18,5 +18,5 @@ def stopNwait(frames):
         remain_frame = remain_frame-1       
     print("Sending complete.")     
     
-frame = int(input("Enter number of frames you want to send : "))
-stopNwait(frame)
+# frame = int(input("Enter number of frames you want to send : "))
+stopNwait(3)
